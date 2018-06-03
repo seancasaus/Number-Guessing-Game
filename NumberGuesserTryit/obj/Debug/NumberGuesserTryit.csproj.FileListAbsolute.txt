@@ -1,0 +1,10 @@
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\bin\Debug\NumberGuesserTryit.exe.config
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\bin\Debug\NumberGuesserTryit.exe
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\bin\Debug\NumberGuesserTryit.pdb
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\obj\Debug\NumberGuesserTryit.csprojResolveAssemblyReference.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\obj\Debug\NumberGuesserTryit.Form1.resources
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\obj\Debug\NumberGuesserTryit.Properties.Resources.resources
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\obj\Debug\NumberGuesserTryit.csproj.GenerateResource.Cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\obj\Debug\NumberGuesserTryit.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\obj\Debug\NumberGuesserTryit.exe
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WebFormsTryIt\NumberGuesserTryit\NumberGuesserTryit\obj\Debug\NumberGuesserTryit.pdb
